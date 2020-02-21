@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ninjas/static/css/main.5facb584.chunk.css",
-    "main.js": "/ninjas/static/js/main.98c0fd31.chunk.js",
-    "main.js.map": "/ninjas/static/js/main.98c0fd31.chunk.js.map",
+    "main.js": "/ninjas/static/js/main.8df38730.chunk.js",
+    "main.js.map": "/ninjas/static/js/main.8df38730.chunk.js.map",
     "runtime-main.js": "/ninjas/static/js/runtime-main.b33b9a8c.js",
     "runtime-main.js.map": "/ninjas/static/js/runtime-main.b33b9a8c.js.map",
     "static/js/2.30ac3908.chunk.js": "/ninjas/static/js/2.30ac3908.chunk.js",
     "static/js/2.30ac3908.chunk.js.map": "/ninjas/static/js/2.30ac3908.chunk.js.map",
     "index.html": "/ninjas/index.html",
-    "precache-manifest.b0e1c95f5eb9e58795539b7a49af8522.js": "/ninjas/precache-manifest.b0e1c95f5eb9e58795539b7a49af8522.js",
+    "precache-manifest.d004c74900c170df773659946f95b26c.js": "/ninjas/precache-manifest.d004c74900c170df773659946f95b26c.js",
     "service-worker.js": "/ninjas/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/ninjas/static/css/main.5facb584.chunk.css.map",
     "static/js/2.30ac3908.chunk.js.LICENSE.txt": "/ninjas/static/js/2.30ac3908.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b33b9a8c.js",
     "static/js/2.30ac3908.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.98c0fd31.chunk.js"
+    "static/js/main.8df38730.chunk.js"
   ]
 }
