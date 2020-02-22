@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACI,sBACJ,CAEA,KACI,0CACJ","file":"main.9e3bd0c3.chunk.css","sourcesContent":[".active {\n    background-color: brown;\n}\n\nbody {\n    background-image: url(\"/images/mountain.jpg\");\n}"]}
