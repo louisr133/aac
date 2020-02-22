@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ninjas/static/css/main.cfd93c26.chunk.css",
-    "main.js": "/ninjas/static/js/main.d7e14286.chunk.js",
-    "main.js.map": "/ninjas/static/js/main.d7e14286.chunk.js.map",
+    "main.js": "/ninjas/static/js/main.5399ee41.chunk.js",
+    "main.js.map": "/ninjas/static/js/main.5399ee41.chunk.js.map",
     "runtime-main.js": "/ninjas/static/js/runtime-main.b33b9a8c.js",
     "runtime-main.js.map": "/ninjas/static/js/runtime-main.b33b9a8c.js.map",
     "static/js/2.2c7afe13.chunk.js": "/ninjas/static/js/2.2c7afe13.chunk.js",
     "static/js/2.2c7afe13.chunk.js.map": "/ninjas/static/js/2.2c7afe13.chunk.js.map",
     "index.html": "/ninjas/index.html",
-    "precache-manifest.d3b9ca44cfb1d7fe82466188491553d2.js": "/ninjas/precache-manifest.d3b9ca44cfb1d7fe82466188491553d2.js",
+    "precache-manifest.be0adc61ed18f7d84789bff97756d6ec.js": "/ninjas/precache-manifest.be0adc61ed18f7d84789bff97756d6ec.js",
     "service-worker.js": "/ninjas/service-worker.js",
     "static/css/main.cfd93c26.chunk.css.map": "/ninjas/static/css/main.cfd93c26.chunk.css.map",
     "static/js/2.2c7afe13.chunk.js.LICENSE.txt": "/ninjas/static/js/2.2c7afe13.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b33b9a8c.js",
     "static/js/2.2c7afe13.chunk.js",
     "static/css/main.cfd93c26.chunk.css",
-    "static/js/main.d7e14286.chunk.js"
+    "static/js/main.5399ee41.chunk.js"
   ]
 }
